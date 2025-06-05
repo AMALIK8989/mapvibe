@@ -1,4 +1,4 @@
-# Sitemap Generator Pro
+# Sitemap Generator Pro (MapVibe)
 
 A modern, full-stack sitemap generator with multi-device crawling capabilities, built with React, Vite, Three.js, Express.js, and Supabase.
 
