@@ -1,6 +1,25 @@
-# Sitemap Generator Pro (MapVibe)
+# MapVibe - Professional XML Sitemap Generator
 
-A modern, full-stack sitemap generator with multi-device crawling capabilities, built with React, Vite, Three.js, Express.js, and Supabase.
+🚀 **Generate professional XML sitemaps instantly** with multi-device crawling, 3D interface, and real-time analytics. Boost your website's SEO ranking on Google, Bing, and Yandex.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://app.netlify.com/sites/mapvibe/deploys)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-green.svg)](https://mapvibe.netlify.app/)
+
+🌐 **Live Demo:** [https://mapvibe.netlify.app/](https://mapvibe.netlify.app/)
+
+---
+
+## 🎯 Why MapVibe?
+
+MapVibe is not just another sitemap generator. It's a **professional SEO tool** designed for modern websites with:
+
+- **AI-Optimized SEO**: Built for Google, Bing, Yandex, and AI search engines
+- **Multi-Device Crawling**: Desktop, iPhone, Android, MacBook user agents
+- **Beautiful 3D Interface**: Modern glassmorphism design with Three.js
+- **Real-time Analytics**: Track crawl progress and sitemap statistics
+- **Cloud Storage**: Store and manage sitemaps with Supabase
+- **Professional Output**: XML sitemaps that follow search engine guidelines
 
 ## Features
 

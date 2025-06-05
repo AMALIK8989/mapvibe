@@ -16,8 +16,15 @@ function App() {
       <ThreeBackground />
       <div className="main-content">
         <header>
-          <h1>Sitemap Generator</h1>
-          <p>Generate XML sitemaps for your websites</p>
+          <h1>MapVibe</h1>
+          <h2>Professional XML Sitemap Generator</h2>
+          <p>Generate professional XML sitemaps instantly with multi-device crawling, 3D interface, and real-time analytics. Boost your website's SEO ranking on Google, Bing, and Yandex.</p>
+          <div className="features-highlight">
+            <span className="feature-tag">✨ Multi-Device Crawling</span>
+            <span className="feature-tag">🎯 SEO Optimized</span>
+            <span className="feature-tag">⚡ Real-time Analytics</span>
+            <span className="feature-tag">💾 Cloud Storage</span>
+          </div>
         </header>
         
         <main>
